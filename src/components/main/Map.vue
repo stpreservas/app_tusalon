@@ -7,7 +7,6 @@
        :zoom="10.5"
        style="width:100%;height:300px;padding:3px;"
        > 
-6
        </GmapMap> 
       </div>
     </section>
